@@ -4,3 +4,11 @@ def exponent(base, exp):
     outcome = pow(base, exp)
     # use a return statement
     return outcome
+
+# set a base and an exponent
+base_one = 2
+exponent_one = 5
+
+
+
+
