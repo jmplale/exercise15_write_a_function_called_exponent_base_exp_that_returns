@@ -9,6 +9,9 @@ def exponent(base, exp):
 base_one = 2
 exponent_one = 5
 
+# print the result
+print(f"{base_one} raises to the power of {exponent_one} is: {exponent(base_one, exponent_one)}")
+
 
 
 
